@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=C:\Users\maxos\barest\Cargo.toml
+cargo:rustc-link-search=native=C:\Users\maxos\barest\target\bootimage\bootloader\x86_64-bootloader\release\build\bootloader-1ce1a489287bcdea\out
+cargo:rustc-link-lib=static=kernel_bin-barest
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=\\?\C:\Users\maxos\barest\target\x86_64-bootimage-barest\debug\barest
+cargo:rerun-if-changed=build.rs
