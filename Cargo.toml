@@ -1,3 +1,4 @@
+workspace = { members = ["kernel_with_bootloader", "os_with_bootloader"] }
 [package]
 name = "hello_world"
 version = "0.1.0"
