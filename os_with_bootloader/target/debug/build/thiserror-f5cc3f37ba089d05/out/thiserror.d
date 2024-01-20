@@ -1,6 +1,6 @@
-C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\thiserror-f5cc3f37ba089d05\out\libthiserror.rmeta: build\probe.rs
+C:\Users\maxos\OneDrive\Desktop\CSC305\os_with_bootloader\target\debug\build\thiserror-f5cc3f37ba089d05\out\libthiserror.rmeta: build\probe.rs
 
-C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\thiserror-f5cc3f37ba089d05\out\thiserror.d: build\probe.rs
+C:\Users\maxos\OneDrive\Desktop\CSC305\os_with_bootloader\target\debug\build\thiserror-f5cc3f37ba089d05\out\thiserror.d: build\probe.rs
 
 build\probe.rs:
 
