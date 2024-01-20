@@ -1,0 +1,255 @@
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+warning: spurious network error (3 tries remaining): [28] Timeout was reached (failed to download any data for `bootloader-x86_64-bios-stage-2 v0.11.5` within 30s)
+warning: spurious network error (2 tries remaining): [28] Timeout was reached (failed to download any data for `bootloader-x86_64-bios-stage-2 v0.11.5` within 30s)
+  Downloaded bootloader-x86_64-bios-stage-2 v0.11.5
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-uefi v0.11.5
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-bios-stage-3 v0.11.5
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-bios-boot-sector v0.11.5
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-bios-stage-4 v0.11.5
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-bios-stage-2 v0.11.5
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-uefi v0.11.5
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-bios-stage-3 v0.11.5
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-bios-boot-sector v0.11.5
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+  Installing bootloader-x86_64-bios-stage-4 v0.11.5
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded byteorder v1.4.3
+  Downloaded mbr-nostd v0.1.0
+  Downloaded bootloader-x86_64-bios-common v0.11.5
+ Downloading crates ...
+    Blocking waiting for file lock on package cache
+  Downloaded stable_deref_trait v1.2.0
+  Downloaded zero v0.1.3
+  Downloaded uefi-macros v0.11.0
+  Downloaded ptr_meta_derive v0.2.0
+  Downloaded ptr_meta v0.2.0
+  Downloaded rand_hc v0.3.2
+  Downloaded uart_16550 v0.2.18
+  Downloaded ucs2 v0.3.2
+  Downloaded hash32 v0.2.1
+  Downloaded rustversion v1.0.13
+  Downloaded conquer-util v0.3.0
+  Downloaded rustc_version v0.4.0
+  Downloaded rand_core v0.6.4
+  Downloaded conquer-once v0.3.2
+  Downloaded scopeguard v1.1.0
+  Downloaded bootloader-x86_64-common v0.11.5
+  Downloaded quote v1.0.29
+  Downloaded serde-json-core v0.5.0
+  Downloaded semver v1.0.17
+  Downloaded lock_api v0.4.10
+  Downloaded xmas-elf v0.8.0
+  Downloaded log v0.4.19
+  Downloaded unicode-ident v1.0.10
+  Downloaded ryu v1.0.14
+  Downloaded serde_derive v1.0.166
+  Downloaded proc-macro2 v1.0.63
+  Downloaded spinning_top v0.2.5
+  Downloaded spin v0.9.8
+  Downloaded serde v1.0.166
+  Downloaded heapless v0.7.16
+  Downloaded x86_64 v0.14.10
+  Downloaded raw-cpuid v10.7.0
+  Downloaded rand v0.8.5
+  Downloaded uefi v0.20.0
+  Downloaded syn v2.0.23
+  Downloaded syn v1.0.109
+  Downloaded noto-sans-mono-bitmap v0.2.0
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded noto-sans-mono-bitmap v0.1.6
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded rsdp v2.0.0
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded r-efi-alloc v1.0.0
+  Downloaded r-efi v4.2.0
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+   Compiling compiler_builtins v0.1.104
+   Compiling core v0.0.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling bootloader-x86_64-bios-stage-3 v0.11.5
+   Compiling compiler_builtins v0.1.104
+   Compiling   Compiling compiler_builtins v0.1.104
+ core v0.0.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling   Compiling bootloader-x86_64-bios-boot-sector v0.11.5
+ core v0.0.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling bootloader-x86_64-bios-stage-2 v0.11.5
+   Compiling compiler_builtins v0.1.104
+   Compiling core v0.0.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling compiler_builtins v0.1.104
+   Compiling proc-macro2 v1.0.63
+   Compiling core v0.0.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling quote v1.0.29
+   Compiling unicode-ident v1.0.10
+   Compiling proc-macro2 v1.0.63
+   Compiling autocfg v1.1.0
+   Compiling autocfg v1.1.0
+   Compiling unicode-ident v1.0.10
+   Compiling semver v1.0.17
+   Compiling quote v1.0.29
+   Compiling syn v1.0.109
+   Compiling lock_api v0.4.10
+   Compiling lock_api v0.4.10
+   Compiling semver v1.0.17
+   Compiling serde v1.0.166
+   Compiling syn v2.0.23
+   Compiling rustversion v1.0.13
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling syn v2.0.23
+   Compiling rustc_version v0.4.0
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling serde_derive v1.0.166
+   Compiling scopeguard v1.1.0
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling rustversion v1.0.13
+   Compiling scopeguard v1.1.0
+   Compiling serde v1.0.166
+   Compiling bit_field v0.10.2
+   Compiling bitflags v1.3.2
+   Compiling serde_derive v1.0.166
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\maxos\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling rustc_version v0.4.0
+   Compiling bitflags v1.3.2
+   Compiling byteorder v1.4.3
+   Compiling volatile v0.4.6
+   Compiling rand_core v0.6.4
+   Compiling heapless v0.7.16
+   Compiling heapless v0.7.16
+   Compiling byteorder v1.4.3
+   Compiling volatile v0.4.6
+   Compiling bootloader_api v0.11.5
+   Compiling x86_64 v0.14.10
+   Compiling rand_core v0.6.4
+   Compiling mbr-nostd v0.1.0
+   Compiling byteorder v1.4.3
+   Compiling bit_field v0.10.2
+   Compiling ptr_meta_derive v0.2.0
+    Finished stage-1 [optimized] target(s) in 23m 46s
+  Installing C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin\bootloader-x86_64-bios-boot-sector
+   Installed package `bootloader-x86_64-bios-boot-sector v0.11.5` (executable `bootloader-x86_64-bios-boot-sector`)
+warning: be sure to add `C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin` to your PATH to be able to run the installed binaries
+   Compiling bootloader-x86_64-bios-common v0.11.5
+   Compiling bootloader_api v0.11.5
+   Compiling hash32 v0.2.1
+   Compiling hash32 v0.2.1
+   Compiling spin v0.9.8
+   Compiling x86_64 v0.14.10
+   Compiling bootloader-x86_64-bios-common v0.11.5
+   Compiling conquer-util v0.3.0
+   Compiling log v0.4.19
+   Compiling zero v0.1.3
+   Compiling noto-sans-mono-bitmap v0.1.6
+   Compiling stable_deref_trait v1.2.0
+   Compiling ptr_meta v0.2.0
+   Compiling spin v0.9.8
+   Compiling conquer-util v0.3.0
+   Compiling xmas-elf v0.8.0
+   Compiling bootloader-boot-config v0.11.5
+   Compiling conquer-once v0.3.2
+   Compiling log v0.4.19
+   Compiling stable_deref_trait v1.2.0
+   Compiling uart_16550 v0.2.18
+   Compiling zero v0.1.3
+   Compiling uefi-macros v0.11.0
+   Compiling rand v0.8.5
+    Finished stage-2 [optimized] target(s) in 23m 59s
+  Installing C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin\bootloader-x86_64-bios-stage-2
+   Installed package `bootloader-x86_64-bios-stage-2 v0.11.5` (executable `bootloader-x86_64-bios-stage-2`)
+warning: be sure to add `C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin` to your PATH to be able to run the installed binaries
+   Compiling rand_hc v0.3.2
+   Compiling spinning_top v0.2.5
+   Compiling uart_16550 v0.2.18
+   Compiling raw-cpuid v10.7.0
+   Compiling xmas-elf v0.8.0
+   Compiling ucs2 v0.3.2
+   Compiling usize_conversions v0.2.0
+   Compiling conquer-once v0.3.2
+   Compiling noto-sans-mono-bitmap v0.2.0
+   Compiling ryu v1.0.14
+   Compiling uefi v0.20.0
+   Compiling rand v0.8.5
+   Compiling rand_hc v0.3.2
+   Compiling raw-cpuid v10.7.0
+   Compiling serde-json-core v0.5.0
+   Compiling spinning_top v0.2.5
+   Compiling bootloader-x86_64-common v0.11.5
+   Compiling bootloader-boot-config v0.11.5
+   Compiling ryu v1.0.14
+   Compiling usize_conversions v0.2.0
+   Compiling noto-sans-mono-bitmap v0.2.0
+   Compiling bootloader-x86_64-bios-stage-4 v0.11.5
+   Compiling rsdp v2.0.0
+   Compiling bootloader-x86_64-bios-common v0.11.5
+   Compiling serde-json-core v0.5.0
+   Compiling bootloader-x86_64-common v0.11.5
+   Compiling bootloader-x86_64-uefi v0.11.5
+    Finished release [optimized] target(s) in 24m 51s
+  Installing C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin\bootloader-x86_64-uefi.efi
+   Installed package `bootloader-x86_64-uefi v0.11.5` (executable `bootloader-x86_64-uefi.efi`)
+warning: be sure to add `C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin` to your PATH to be able to run the installed binaries
+    Finished stage-4 [optimized + debuginfo] target(s) in 24m 57s
+  Installing C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin\bootloader-x86_64-bios-stage-4
+   Installed package `bootloader-x86_64-bios-stage-4 v0.11.5` (executable `bootloader-x86_64-bios-stage-4`)
+warning: be sure to add `C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin` to your PATH to be able to run the installed binaries
+    Finished stage-3 [optimized + debuginfo] target(s) in 25m 30s
+  Installing C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin\bootloader-x86_64-bios-stage-3
+   Installed package `bootloader-x86_64-bios-stage-3 v0.11.5` (executable `bootloader-x86_64-bios-stage-3`)
+warning: be sure to add `C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader-8398a1889bceb91f\out\bin` to your PATH to be able to run the installed binaries
