@@ -18,16 +18,31 @@ pub static BOOTLOADER_CONFIG: bootloader_api::BootloaderConfig = {
 bootloader_api::entry_point!(my_entry_point, config = &BOOTLOADER_CONFIG);
 
 fn my_entry_point(boot_info: &'static mut bootloader_api::BootInfo) -> ! {
-
     let frame_buffer_info = boot_info.framebuffer.as_mut().unwrap().info();
 
     let buffer = boot_info.framebuffer.as_mut().unwrap().buffer_mut();
 
-    let mut frame_buffer_writer = 
-        FrameBufferWriter::new(buffer, frame_buffer_info);
+    let mut frame_buffer_writer = FrameBufferWriter::new(buffer, frame_buffer_info);
 
-    use core::fmt::Write;//below requires this
-    writeln!(frame_buffer_writer, "Testing testing {} and {}", 1, 4.0/2.0).unwrap();
+    use core::fmt::Write; //below requires this
+    writeln!(
+        frame_buffer_writer,
+        "Testing testing {} and {}",
+        1,
+        4.0 / 2.0)
+    .unwrap();
+    frame_buffer_writer.set_pos(658, 48);
+    writeln!(frame_buffer_writer, "Hello ^_^");
+    frame_buffer_writer.set_pos(1, 20);
+    writeln!(frame_buffer_writer, "Testing blank screen 2");
+    macro_rules! println {
+    ($($a: expr)*) =>{
+        writeln!(frame_buffer_writer,$($a),*).unwrap();
+
+    }
+}
+    println!("Hi This Is Print");
+    println!("Hi This is Also Print");
 
     loop {
         hlt(); //stop x86_64 from being unnecessarily busy while looping

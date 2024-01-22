@@ -123,6 +123,11 @@ impl FrameBufferWriter {
             .copy_from_slice(&color[..bytes_per_pixel]);
         let _ = unsafe { ptr::read_volatile(&self.framebuffer[byte_offset]) };
     }
+    pub fn set_pos(&mut self,x:usize,y:usize){
+        self.x_pos = x;
+        self.y_pos = y;
+    }
+
 }
 
 unsafe impl Send for FrameBufferWriter {}
