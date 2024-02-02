@@ -1,6 +1,6 @@
-C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader_api-e0c10c95b0eb7216\build_script_build-e0c10c95b0eb7216.exe: C:\Users\maxos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\build.rs
+C:\Users\maxos\OneDrive\Desktop\CSC305\os_with_bootloader\target\debug\build\bootloader_api-e0c10c95b0eb7216\build_script_build-e0c10c95b0eb7216.exe: C:\Users\maxos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\build.rs
 
-C:\Users\maxos\OneDrive\Desktop\os_with_bootloader\target\debug\build\bootloader_api-e0c10c95b0eb7216\build_script_build-e0c10c95b0eb7216.d: C:\Users\maxos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\build.rs
+C:\Users\maxos\OneDrive\Desktop\CSC305\os_with_bootloader\target\debug\build\bootloader_api-e0c10c95b0eb7216\build_script_build-e0c10c95b0eb7216.d: C:\Users\maxos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\build.rs
 
 C:\Users\maxos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\build.rs:
 
